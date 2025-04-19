@@ -19,7 +19,7 @@ IP-CIDR,192.9.245.122/32,no-resolve
 IP-CIDR,138.2.58.38/32,no-resolve
 IP-CIDR,217.142.229.222/32,no-resolve
 #域网访问控制：不走代理局
-SRC-IP-CIDR,192.168.100.189/32,no-resolve
+SRC-IP-CIDR,192.168.1.210/32,no-resolve
 
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
