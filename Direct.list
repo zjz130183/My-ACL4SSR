@@ -14,7 +14,10 @@ DOMAIN-SUFFIX,letsencrypt.org
 DOMAIN-KEYWORD,baidu
 
 # IP段匹配
-IP-CIDR,219.146.1.66/32,no-resolve
+IP-CIDR,192.9.146.100/32,no-resolve
+IP-CIDR,192.9.245.122/32,no-resolve
+IP-CIDR,138.2.58.38/32,no-resolve
+IP-CIDR,217.142.229.222/32,no-resolve
 
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
